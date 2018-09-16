@@ -10,3 +10,7 @@ mathjax: true
 This is an empty post to illustrate the pagination component with Pixyll. 
 
 $$ \int_0^\infty $$
+
+\begin{equation}
+	|\psi_1\rangle = a|0\rangle + b|1\rangle
+\end{equation}
