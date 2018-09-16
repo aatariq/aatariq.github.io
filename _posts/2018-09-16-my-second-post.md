@@ -7,4 +7,6 @@ categories: jekyll pixyll
 mathjax: true
 ---
 
-This is an empty post to illustrate the pagination component with Pixyll. \[ \int_0^\infty \]
+This is an empty post to illustrate the pagination component with Pixyll. 
+
+\[ \int_0^\infty \]
