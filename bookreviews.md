@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
+title: Book Reviews
+permalink: /bookreviews/
 tags: about
 ---
 
-I am an economist and statistician working in healthcare. 
+I read a lot of books and make notes. Read them below. 
