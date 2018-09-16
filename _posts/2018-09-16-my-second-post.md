@@ -14,3 +14,5 @@ $$ \int_0^\infty $$
 \begin{equation}
 	|\psi_1\rangle = a|0\rangle + b|1\rangle
 \end{equation}
+
+Is it ok?
