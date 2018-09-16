@@ -1,10 +1,10 @@
 # Site settings
 title:       Abdul A. Tariq
-email:       your_email@example.com
-author:      John Otander
+email:       abdulahad.t@gmail.com
+author:      Abdul A. Tariq
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "aatariq.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
