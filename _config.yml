@@ -4,7 +4,7 @@ email:       abdulahad.t@gmail.com
 author:      Abdul A. Tariq
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     "aatariq.github.io"
-url:         ""
+url:         "aatariq.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
