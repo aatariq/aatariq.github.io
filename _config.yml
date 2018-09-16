@@ -9,13 +9,7 @@ date_format: "%b %-d, %Y"
 header_pages:
  - about.md
  - contact.html
- - bookreviews.md
 
-# collections
-collections_dir: my_collections
-
-collections:
-  - book_reviews
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account
