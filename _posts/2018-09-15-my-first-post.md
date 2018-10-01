@@ -6,6 +6,12 @@ summary:    This is the summary
 categories: jekyll pixyll
 ---
 
+Things to add: 
+  - "Projects" page 
+  - Forecasts?
+  - Courses?
+  - Data visualizations (separate?)
+
 Hello.
 
 Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
